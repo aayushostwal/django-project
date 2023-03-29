@@ -1,9 +1,8 @@
+import time
+
 from rest_framework.request import Request
 from rest_framework.response import Response
-
 from rest_framework.views import APIView
-
-import time
 
 
 def internal_function_1():
